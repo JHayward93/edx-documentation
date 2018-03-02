@@ -6,7 +6,7 @@ Open edX XBlock Tutorial
 
 .. toctree::
     :numbered:
-    :maxdepth: 2
+    :maxdepth: 4 
 
     front_matter/index
     overview/index
